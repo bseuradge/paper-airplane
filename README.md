@@ -1,27 +1,23 @@
-# How to fold a paper airplane (Reproducible Workshop May 2017)
+# How to make a simple paper airplane (Reproducible Workshop May 2017)
 
-## Materials 
+## 2017-05-08
 
-#### Make Bulleted List
+#### *Instructions:* 
 
-* Repository to demonstrate how to fold a paper airplane. 
-* Added text
-* Bulleted list
+1. Start off with an 8.5” x 11” sheet of paper (regular printer paper).
 
-#### Make ordered list
+2. Fold sheet in half lengthwise and then unfold.
 
-1. step 1
-2. step 2
-3. step 3
+3. Fold upper corners of the piece of paper to the middle of the paper.
 
-#### hyperlink
+4. Keeping the upper corners folded, fold each top corner again lengthwise so that the fold meets the middle of the piece of paper *(Your piece of paper should look like a triangle)*. 
 
-We used [mothur](http:https://www.mothur.org/) to carry out the analysis
+5. Fold the folder sides again so that they meet each other (i.e., are folded on top of each other)
 
-#### italics
+6. Fold in half and open so that the folds open up to form wings. 
 
-*hello
+***For more images and detailed explanation see*** www.howtomakeapaperairplane.org
 
-#### bold
 
-**hello
+
+
